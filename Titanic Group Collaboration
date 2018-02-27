@@ -3,5 +3,8 @@
 In class we discussed what approaches we used and the scores we achieved.
 
 Hunter: .727, 
-Kristen: .59, 
+
+Kristen: .59, i dropped all attributes with string values due to a certain error i was getting
+then i used the random Forest classifier described in the tutorial section of the competition
+
 Robert: .64, 
